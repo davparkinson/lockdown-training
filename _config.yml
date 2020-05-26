@@ -1,13 +1,12 @@
-title: DP's Working Week
+title: Lockdown Training Ideas
 author: davparkinson
 email: not_likely@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Just a test to see how GitHub pages works, and it looks
-  like the tutorial is a blog application.
+  A directory of free or discounted training.
 
 # social links
 twitter_username: davparkinson  
 github_username:  davparkinson
 
 show_excerpts: true # set to false to remove excerpts on the homepage
-theme: minima
+theme: jekyll-theme-midnight
